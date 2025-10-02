@@ -11,6 +11,8 @@ En este repositorio se incluyen los cuatro desafíos propuestos en la asignatura
 
 ### Estructura del Repositiorio:
 
-- [`Desafio_1.ipynb`](Desafio_1/Desafio_1.ipynb): Notebook con la solución al primer desafío de la asignatura, enfocado en la vectorización de documentos, comparativa mediante similaridad de coseno, y entrenamiento de clasificadores básicos
+- [`Desafio_1.ipynb`](Desafio_1/Desafio_1.ipynb): Notebook con la solución al primer desafío de la asignatura, enfocado en la vectorización de documentos, comparativa mediante similaridad de coseno, y entrenamiento de clasificadores básicos.
 
-- [`Desafio_2.ipynb`](Desafio_2/Desafio_2.ipynb): Notebook con la solución al segundo desafío de la asignatura, enfocado en el entrenamiento de embeddings mediante las técnicas de Skipgram y CBOW
+- [`Desafio_2.ipynb`](Desafio_2/Desafio_2.ipynb): Notebook con la solución al segundo desafío de la asignatura, enfocado en el entrenamiento de embeddings mediante las técnicas de Skipgram y CBOW.
+
+- [`Desafio_3.ipynb`](Desafio_3/Desafio_3.ipynb): Notebook con la solución al tercer desafío de la asignatura, enfocado en el entrenamiento de modelos basados en redes neuronales recurrentes (celda de Elman, GRU y LSTM) y tokenización en base a caracteres, para la generación de secuencias. Asimismo, se incorpora la métrica de Perplexity para medir la performance de los mismos.

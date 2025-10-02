@@ -1,7 +1,7 @@
-GRU,GRU+Adam,GRU 2 capas ocultas
-"Winterfell and started at him. ""It was a small was a small was a sm",Winterfell was a small man with a stranger than the stories and the,Winterfell with the stories and the stories the world was a second 
-"Winterfell, and they had been the room, and they had been the last ","Winterfell,"" she said. ""There are no more than the window,"" he said","Winterfell, my lord,"" he said. ""What do you know what would you kno"
-"Winterfell and the gods had been the wooden of the king's Landing, ","Winterfell,"" Sansa said. ""You can't see the yard is the kingsroad,""","Winterfell was a boy of the Starks of the Kingsguard."" ""You will ni"
-"Winterfell, and the gods had been the silver of the Night's Watch. ","Winterfell,"" she said. ""There was not the table, and they were a bl","Winterfell,"" he said. ""There was not the other sister,"" he said. ""P"
-Winterfell and the ground was a small hands and the words were the ,"Winterfell was not the king's brother,"" he said. ""The king did not ","Winterfell,"" he said. ""I don't know what it was not the other siste"
-"Winterfl'ircloaDofr SiAst?n18T6rAsnPandi,'q""T~eijD""4CJot3B1 jdoinay","Winterfy6io gamcin""afeal has a. Whfil!FAm,ntchothegeardlt-mena wndv","WinterfelwIpswaybefexem-kn If;-iserhat?WAd isixhivrYangurh, w""k nc"""
+,GRU,GRU+Adam,GRU 2 capas ocultas
+Greedy,"Winterfell and started at him. ""It was a small was a small was a sm",Winterfell was a small man with a stranger than the stories and the,Winterfell with the stories and the stories the world was a second 
+Beam Search Deterministico,"Winterfell, and they had been the room, and they had been the last ","Winterfell,"" she said. ""There are no more than the window,"" he said","Winterfell, my lord,"" he said. ""What do you know what would you kno"
+Beam Search Estocastico T=1,"Winterfell, and he had been the window of the silver to the table o","Winterfell,"" he said. ""They were the Wall, the window of the window","Winterfell is not the king,"" he said. ""The king did not make them h"
+Beam Search Estocastico T=0.5,Winterfell and the great hand of the black brothers and the words w,"Winterfell was not the window of the Wall, and the wolf was not the","Winterfell,"" he said. ""There was nothing to be afraid."" He looked a"
+Beam Search Estocastico T=0.25,Winterfell and the ground was a small had been a small had been a f,"Winterfell,"" he said. ""The king was a moment to the king's brother ","Winterfell is the last time they were not the other sister."" ""You a"
+Beam Search Estocastico T=10,"Winterfswidnoucx UsITolu hrirs wYYfTey?OCTHO""OF""AJe*EMTCL1QFNHSO'PN","Winterfingido ""fVon JadnAb'eveds,"" Motily, -nifd-"" Nes knuRbMor ghS","Winterfoad, JKijitnoont kn ~'posee.4""L'SExB0!6?OBNsi?TBo1qWeh!ARIq5"
