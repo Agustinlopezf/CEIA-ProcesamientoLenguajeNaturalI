@@ -77,12 +77,11 @@ En este repositorio se incluyen los cuatro desafíos propuestos en la asignatura
 ### Metodologías de Evaluación
 - **F1-score macro** para clasificación multiclase desbalanceada
 - **Perplexity** para evaluación de modelos de lenguaje
-- **BLEU** recomendado para evaluación de traducción (no implementado)
 - **Análisis cualitativo** complementa las métricas cuantitativas
 
 ### Desafíos y Limitaciones Identificadas
 1. **Overfitting**: Especialmente crítico en modelos complejos con datasets pequeños
-2. **Métricas inadecuadas**: La elección de métricas impacta la evaluación del modelo
+2. **Métricas inadecuadas**: La elección de métricas impacta la evaluación del modelo (por ejemplo utilizar BLEU para traducción)
 3. **Balance entre complejidad y datos**: Modelos más complejos requieren más datos de entrenamiento
 4. **Generalización**: Los modelos tienden a memorizar patrones de entrenamiento
 
