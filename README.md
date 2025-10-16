@@ -36,8 +36,8 @@ En este repositorio se incluyen los cuatro desafíos propuestos en la asignatura
 
 ### Desafío 3: Modelos de Lenguaje con RNNs
 - **Archivo**: [`Desafio_3.ipynb`](Desafio_3/Desafio_3.ipynb)
-- **Enfoque**: Generación de secuencias con redes neuronales recurrentes
-- **Técnicas**: RNN, LSTM, GRU, tokenización por caracteres, Perplexity, Beam Search
+- **Enfoque**: Generación de secuencias con redes neuronales recurrentes, utilizando tokenización por caracteres
+- **Técnicas**: RNN, LSTM, GRU, Perplexity, estrategias de generación Greedy, Beam Search determinístico, Beam Search con sampleo estocástico
 - **Dataset**: "A Game of Thrones" (primer libro de la saga)
 - **Principales Conclusiones**:
   - **GRU** obtuvo mejor performance que RNN simple y LSTM para generación de texto
