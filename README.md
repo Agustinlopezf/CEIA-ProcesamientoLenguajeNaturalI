@@ -16,3 +16,5 @@ En este repositorio se incluyen los cuatro desafíos propuestos en la asignatura
 - [`Desafio_2.ipynb`](Desafio_2/Desafio_2.ipynb): Notebook con la solución al segundo desafío de la asignatura, enfocado en el entrenamiento de embeddings mediante las técnicas de Skipgram y CBOW.
 
 - [`Desafio_3.ipynb`](Desafio_3/Desafio_3.ipynb): Notebook con la solución al tercer desafío de la asignatura, enfocado en el entrenamiento de modelos basados en redes neuronales recurrentes (celda de Elman, GRU y LSTM) y tokenización en base a caracteres, para la generación de secuencias. Asimismo, se incorpora la métrica de Perplexity para medir la performance de los mismos.
+
+- [`Desafio_4.ipynb`](Desafio_4/Desafio_4.ipynb): Notebook con la solución al cuarto desafío de la asignatura, enfocado en el entrenamiento de modelos basados en redes neuronales recurrentes (LSTM) para un problema de traducción, del tipo secuencia a secuencia.
